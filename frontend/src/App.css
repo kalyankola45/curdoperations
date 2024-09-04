@@ -1,0 +1,140 @@
+*
+{
+     padding: 0%;
+     margin: 0%;
+     box-sizing: border-box;
+}
+.mb-3
+{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     flex-direction: column;
+     width: 30%;
+  
+     position: relative;
+   left: 35%;
+     top: 30px;
+     height: 450px;
+    
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.show
+{
+   transform: translateX(100px);   
+}
+input
+{
+      width: 80%;
+    
+}
+label
+{
+    align-self: flex-start;
+    margin-left: 15px;
+     position: relative;
+     top: -0px;
+}
+.radios
+{
+       display: flex;
+       flex-direction: column;
+   justify-content: space-between;
+  
+}
+.form-check-label
+{
+   margin-left: 20px;    
+}
+
+.form-check-input
+{
+       margin-top: 5px;
+       margin-left: 10px;
+}
+.form-control
+{
+       width: 95%;
+}
+#cat
+{
+      position: relative;
+      top: 15px;
+   
+}
+#selection
+{
+   position: relative;
+   bottom: 15px;
+   left: -20px;
+}
+#emoji
+{
+    position: absolute;
+    right: -10%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#showing
+{
+    width: 200px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-size: 18px;
+}
+#add
+{
+   margin-top:10px;
+}
+.container
+{
+
+     display: flex;
+     width: 100%;
+     gap: 15px;
+     align-items: center;
+     justify-content: center;
+     flex-direction: row;
+     flex-wrap: wrap;
+     position: relative;
+     
+     top: 30px;
+ 
+     
+     
+     
+}
+.cardsss
+{
+     width: 20%;
+   justify-content: space-between;
+     display: flex;
+     align-items: center;
+   
+     justify-content: center;
+     background-color: rgb(255, 255, 255);
+     height: 250px;
+     border-radius: 10px;
+     position: relative;
+      margin-top: 10px;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.details button
+{
+      margin-right: 20px;
+      margin-top: 10px;
+}
+label span
+{
+  
+   position: relative;
+ align-self: flex-end;
+}
+#orderst
+{
+   position: relative;
+   top: 15px;
+}
